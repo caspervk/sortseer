@@ -1,0 +1,476 @@
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=dr.dk;
+	h=content-type:from:mime-version:subject:to:cc:content-type:from:
+	subject:to;
+	s=001; bh=i0odkv/d7QWLIrBOk47Mz0nDaEtDcf3M7saLUxW3JNs=;
+	b=rbiMmuSwJG7/WySGLiBb+11c3RIGJ7vvAw0CoJycG+K4vhS06INlxQ8nIHYInLZsRAwi
+	u7LY+8pzZ2Ed9qHig1QPYCu2qfL8+JKNIqawEhlc1dlW2eSlnYy0sPlZDahHUoT+Jqstg2
+	CsHNJCMhSXFXkl9I5kjY40m5XnRj7iyfR35TXKwRC4SnWXxcISQm7zL8mhN9Qss1HcfxlR
+	kjtfb18vMMxTZX8lj4i6j0Yp1A5XzJtttZLCCnBs2r/xWBlwtV4/SYByDozDqzLbdUuXpp
+	rp+rR3zQfyxDV+WM/51Y9lGdS+ms/bxUrDSSuxevs4YKzwKGtP+QHCIFBmU1Znog==
+Received: by recvd-6986f65d8d-jtkdn with SMTP id recvd-6986f65d8d-jtkdn-1-670AB6E7-1B
+	2024-10-12 17:50:31.801253438 +0000 UTC m=+2591598.198261493
+Received: from MzQwMTM3NDA (unknown)
+	by geopod-ismtpd-2 (SG) with HTTP
+	id xCRh2h7FRvS8m2j67xD_Sw
+	Sat, 12 Oct 2024 17:50:31.775 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=f64bea36e83fd1cb0e2eddfdd57845d4555f3de0a61157889e496ef5eb56
+Date: Sat, 12 Oct 2024 17:50:31 +0000 (UTC)
+From: DR <login@dr.dk>
+Mime-Version: 1.0
+Message-ID: <xCRh2h7FRvS8m2j67xD_Sw@geopod-ismtpd-2>
+Subject: =?UTF-8?B?QmVrcsOmZnQ=?= dit login
+X-SG-EID: 
+ =?us-ascii?Q?u001=2EHdSiYONnUWIaPUrqepc6ZxTV7XNM=2FdzabOEm7aML1z+2I+hwJGNrW9RG5?=
+ =?us-ascii?Q?ozj1IQJp+R7aiKRXQlfyia643mCC1EF4pP6XiyY?=
+ =?us-ascii?Q?HEu4NGvKU6G2afkQVKvr6BfG2lrS9dM6yjch5kq?=
+ =?us-ascii?Q?rPvGrlW1E5yQyuS=2FmXy2o7XBDqaa8IVz+1UckLa?=
+ =?us-ascii?Q?lOkp3xPwPbkfNyohqnYoGSbOl4TRl=2FdqymIC53U?=
+ =?us-ascii?Q?CF4G+OLWhz3RBi=2F1HqiYAE=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?u001=2ESdBcvi+Evd=2FbQef8eZF3BpTL9BgbK5wfSJMJGMsmprDsPyUTnMagHRCjb?=
+ =?us-ascii?Q?=2F65Gubll9w8CJUnS5CwXwXT0=2FPaJxPeELbZabsv?=
+ =?us-ascii?Q?lynXG72nn=2Fnu52hWNpWZx72A6qYTHiGQU7S02ey?=
+ =?us-ascii?Q?0OdClKMnGyFCP+9TGoIQgFRkPWTp38O3CRmZiQf?=
+ =?us-ascii?Q?8GFuFswjLNlXIHoUsAMxdxh9uO=2FOjBVtR1wmkBH?=
+ =?us-ascii?Q?GZeGUjAGKSliCPot4E3aGE=3D?=
+To: asdasdsda@sortseer.dk
+X-Entity-ID: u001.nLwCQ7a12twcygtjSNcl7A==
+X-Peer: ('149.72.141.100', 49006)
+X-MailFrom: bounces+34013740-978d-asdasdsda=sortseer.dk@em2082.dr.dk
+X-RcptTo: asdasdsda@sortseer.dk
+
+--f64bea36e83fd1cb0e2eddfdd57845d4555f3de0a61157889e496ef5eb56
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+Mime-Version: 1.0
+
+Tak fordi du opretter et login =CD=8F =CD=8F =CD=8F =CD=8F =CD=8F =CD=8F =
+=CD=8F =CD=8F =CD=8F =CD=8F =CD=8F =CD=8F =CD=8F =CD=8F =CD=8F =CD=8F =CD=
+=8F =CD=8F =CD=8F =CD=8F =CD=8F =CD=8F =CD=8F =CD=8F =CD=8F =CD=8F =CD=8F =
+=CD=8F =CD=8F =CD=8F =CD=8F =CD=8F =CD=8F =CD=8F =CD=8F =CD=8F =CD=8F =CD=
+=8F =CD=8F
+
+DR-logo
+
+***************************************************************************=
+****************************************
+Hej asdqww
+***************************************************************************=
+****************************************
+
+Tak fordi du opretter et login til DR.
+
+For at aktivere det, skal du bekr=C3=A6fte, at e-mailadressen er din.
+
+Bekr=C3=A6ft e-mail ( https://api.dr.dk/login/interactions/email/confirmati=
+on?token=3DeyJhbGciOiJIUzI1NiJ9.eyJhY2MiOiJjb25maXJtYXRpb24iLCJzdWIiOiIwNmV=
+hMTYyMi03NGNmLTQ0OGQtYWMzNS1lMTdkMTk5OWQ4YzEiLCJlbWFpbCI6ImFzZGFzZHNkYUBzb3=
+J0c2Vlci5kayIsImV4cCI6MTcyOTE4NzQzMX0.ZbWaw2Yg-2kKHuwJZvy2Do4vGLwrJOqTQnFXk=
+x1ga4c&amp;type=3Dsignup )
+
+Se bort fra denne besked hvis det ikke er dig, der har oprettet et login. D=
+u kan ikke besvare denne mail. Hvis du har sp=C3=B8rgsm=C3=A5l, kan du alti=
+d komme i kontakt med DR her.
+
+Kontakt DR ( https://dr.custhelp.com )
+--f64bea36e83fd1cb0e2eddfdd57845d4555f3de0a61157889e496ef5eb56
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=iso-8859-1
+Mime-Version: 1.0
+
+<!DOCTYPE html>
+<html lang=3D"da" dir=3D"ltr" xmlns:v=3D"urn:schemas-microsoft-com:vml" xml=
+ns:o=3D"urn:schemas-microsoft-com:office:office" style=3D"box-sizing:border=
+-box;--dr-font-publik-ascender:1;--dr-font-publik-cap-height:0.69;--dr-font=
+-publik-x-height:0.5;--dr-font-publik-descender:0.2;--dr-font-publik-line-g=
+ap:0;padding:0;margin:0;font-family:Publik,Gibson,gibsonRegular,Arial,sans-=
+serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;=
+-webkit-text-size-adjust:none;-moz-text-size-adjust:none;text-size-adjust:n=
+one;overflow-x:hidden">
+  <head>
+    <meta charset=3D"utf-8">
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8=
+">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=
+=3D1,user-scalable=3Dyes">
+    <meta name=3D"color-scheme" content=3D"light dark">
+    <meta name=3D"supported-color-schemes" content=3D"light dark">
+    <meta name=3D"x-apple-disable-message-reformatting">
+    <meta name=3D"format-detection" content=3D"telephone=3Dno, date=3Dno, a=
+ddress=3Dno, email=3Dno, url=3Dno">
+    <title>Bekr=E6ft dit login</title>
+    <style type=3D"text/css">:root{color-scheme:light dark;supported-color-=
+schemes:light dark}.svg-before+.svg-after{display:block!important}.color1{b=
+ackground-color:#460028!important;background-image:linear-gradient(#460028,=
+#460028)!important}.color2{background-color:#EEDAFB!important;background-im=
+age:linear-gradient(#EEDAFB,#EEDAFB)!important}.color3{background-color:#9B=
+0000!important;background-image:linear-gradient(#9B0000,#9B0000)!important}=
+.color4{background-color:#D7E1F5!important;background-image:linear-gradient=
+(#D7E1F5,#D7E1F5)!important}</style>
+    <style type=3D"text/css">@font-face{font-family:Publik;font-style:norma=
+l;font-weight:300;font-display:swap;src:url(https://www.dr.dk/global/fonts/=
+DRPublik-Light-d10b3a4be6ea44653fd41b1c368ccc5b.woff2) format("woff2")}@fon=
+t-face{font-family:Publik;font-style:italic;font-weight:300;font-display:sw=
+ap;src:url(https://www.dr.dk/global/fonts/DRPublik-LightItalic-9e2df2a17067=
+957247339bf663187fb5.woff2) format("woff2")}@font-face{font-family:Publik;f=
+ont-style:normal;font-weight:400;font-display:swap;src:url(https://www.dr.d=
+k/global/fonts/DRPublik-Regular-30c6d525a0a01c7fa00ed0aa836e5a84.woff2) for=
+mat("woff2")}@font-face{font-family:Publik;font-style:italic;font-weight:40=
+0;font-display:swap;src:url(https://www.dr.dk/global/fonts/DRPublik-Italic-=
+81c5a43d3c096ed654bd2f0a140ff775.woff2) format("woff2")}@font-face{font-fam=
+ily:Publik;font-style:normal;font-weight:600;font-display:swap;src:url(http=
+s://www.dr.dk/global/fonts/DRPublik-SemiBold-9860ac45dcc6d54a81010c70b01e70=
+00.woff2) format("woff2")}@font-face{font-family:Publik;font-style:italic;f=
+ont-weight:600;font-display:swap;src:url(https://www.dr.dk/global/fonts/DRP=
+ublik-SemiBoldItalic-0d5fbd9b94dd203670cca05bc50a0228.woff2) format("woff2"=
+)}@font-face{font-family:Publik;font-style:normal;font-weight:700;font-disp=
+lay:swap;src:url(https://www.dr.dk/global/fonts/DRPublik-Bold-37f2b404e9390=
+6b4e581fad5ef4de18d.woff2) format("woff2")}@font-face{font-family:Publik;fo=
+nt-style:italic;font-weight:700;font-display:swap;src:url(https://www.dr.dk=
+/global/fonts/DRPublik-BoldItalic-032eab359087c391da29125c50fb184e.woff2) f=
+ormat("woff2")}@font-face{font-family:Publik;font-style:normal;font-weight:=
+900;font-display:swap;src:url(https://www.dr.dk/global/fonts/DRPublik-Black=
+-de8d25a525c777815f6c9b2b67aa3dfb.woff2) format("woff2")}@font-face{font-fa=
+mily:Publik;font-style:italic;font-weight:900;font-display:swap;src:url(htt=
+ps://www.dr.dk/global/fonts/DRPublik-BlackItalic-0e6f55580c2ad0d6032a084ac7=
+978f0d.woff2) format("woff2")}</style>
+    <style type=3D"text/css">@keyframes globals_pulsate{0%{opacity:1}50%{op=
+acity:.4}100%{opacity:1}}@media (prefers-color-scheme:dark){.body:not([clas=
+s^=3Dx_]){color:#ffffff!important;background-color:#000000!important;backgr=
+ound-image:linear-gradient(#000000,#000000)!important}}@keyframes Layout-mo=
+dule_pulsate{0%{opacity:1}50%{opacity:.4}100%{opacity:1}}@media (prefers-co=
+lor-scheme:dark){.root:not([class^=3Dx_]){background-color:#000000!importan=
+t;background-image:linear-gradient(#000000,#000000)!important}}@media (pref=
+ers-color-scheme:dark){.root .container:not([class^=3Dx_]){color:#ffffff!im=
+portant;background-color:#1e1e1e!important;background-image:linear-gradient=
+(#1e1e1e,#1e1e1e)!important}}@media (prefers-color-scheme:dark){.root .cont=
+ainer .content h1:not([class^=3Dx_]){color:#ffffff!important}}@keyframes St=
+ack-module_pulsate{0%{opacity:1}50%{opacity:.4}100%{opacity:1}}@keyframes S=
+tack-module_pulsate{0%{opacity:1}50%{opacity:.4}100%{opacity:1}}@keyframes =
+Headline-module_pulsate{0%{opacity:1}50%{opacity:.4}100%{opacity:1}}@media =
+(min-width:45rem){.Headline-module_root.Headline-module_xxl{font-size:48px;=
+line-height:54px}}@media (min-width:60rem){.Headline-module_root.Headline-m=
+odule_xxl{font-size:60px;line-height:66px}}@media (min-width:45rem){.Headli=
+ne-module_root.Headline-module_xl{font-size:36px;line-height:42px}}@media (=
+min-width:60rem){.Headline-module_root.Headline-module_xl{font-size:48px;li=
+ne-height:54px}}@media (min-width:45rem){.Headline-module_root.Headline-mod=
+ule_l{font-size:30px;line-height:36px}}@media (min-width:60rem){.Headline-m=
+odule_root.Headline-module_l{font-size:36px;line-height:42px}}@media (min-w=
+idth:45rem){.Headline-module_root.Headline-module_m{font-size:24px;line-hei=
+ght:30px}}@media (min-width:60rem){.Headline-module_root.Headline-module_m{=
+font-size:30px;line-height:36px}}@media (min-width:45rem){.Headline-module_=
+root.Headline-module_s{font-size:18px;line-height:24px}}@media (min-width:6=
+0rem){.Headline-module_root.Headline-module_s{font-size:24px;line-height:30=
+px}}@media (min-width:45rem){.Headline-module_root.Headline-module_xs{font-=
+size:18px;line-height:24px}}@keyframes Headline-module_pulsate{0%{opacity:1=
+}50%{opacity:.4}100%{opacity:1}}@media (min-width:45rem){.Headline-module_e=
+mail.Headline-module_xxl{font-size:48px!important;line-height:54px!importan=
+t;mso-line-height-rule:exactly}}@media (min-width:60rem){.Headline-module_e=
+mail.Headline-module_xxl{font-size:60px!important;line-height:66px!importan=
+t;mso-line-height-rule:exactly}}@media (min-width:45rem){.Headline-module_e=
+mail.Headline-module_xl{font-size:36px!important;line-height:42px!important=
+;mso-line-height-rule:exactly}}@media (min-width:60rem){.Headline-module_em=
+ail.Headline-module_xl{font-size:48px!important;line-height:54px!important;=
+mso-line-height-rule:exactly}}@media (min-width:45rem){.Headline-module_ema=
+il.Headline-module_l{font-size:30px!important;line-height:36px!important;ms=
+o-line-height-rule:exactly}}@media (min-width:60rem){.Headline-module_email=
+.Headline-module_l{font-size:36px!important;line-height:42px!important;mso-=
+line-height-rule:exactly}}@media (min-width:45rem){.Headline-module_email.H=
+eadline-module_m{font-size:24px!important;line-height:30px!important;mso-li=
+ne-height-rule:exactly}}@media (min-width:60rem){.Headline-module_email.Hea=
+dline-module_m{font-size:30px!important;line-height:36px!important;mso-line=
+-height-rule:exactly}}@media (min-width:45rem){.Headline-module_email.Headl=
+ine-module_s{font-size:18px!important;line-height:24px!important;mso-line-h=
+eight-rule:exactly}}@media (min-width:60rem){.Headline-module_email.Headlin=
+e-module_s{font-size:24px!important;line-height:30px!important;mso-line-hei=
+ght-rule:exactly}}@media (min-width:45rem){.Headline-module_email.Headline-=
+module_xs{font-size:18px!important;line-height:24px!important;mso-line-heig=
+ht-rule:exactly}}@keyframes Body-module_pulsate{0%{opacity:1}50%{opacity:.4=
+}100%{opacity:1}}@media (min-width:45rem){.Body-module_root.Body-module_l{f=
+ont-size:18px;line-height:26px}}@keyframes Body-module_pulsate{0%{opacity:1=
+}50%{opacity:.4}100%{opacity:1}}@media (prefers-color-scheme:dark){.Body-mo=
+dule_email{color:inherit!important}}@media (min-width:45rem){.Body-module_e=
+mail.Body-module_l{font-size:18px!important;line-height:26px!important;mso-=
+line-height-rule:exactly}}@keyframes Button-module_pulsate{0%{opacity:1}50%=
+{opacity:.4}100%{opacity:1}}.button:hover{background-color:#db001a!importan=
+t;text-decoration-color:#db001a;text-underline-color:#db001a}@media (prefer=
+s-color-scheme:dark){.button{background-color:#ff1a34!important}}@keyframes=
+ Divider-module_pulsate{0%{opacity:1}50%{opacity:.4}100%{opacity:1}}@keyfra=
+mes Footer-module_pulsate{0%{opacity:1}50%{opacity:.4}100%{opacity:1}}@medi=
+a (prefers-color-scheme:dark){.Footer-module_body{color:#7f7f7f!important}}=
+@keyframes Link-module_pulsate{0%{opacity:1}50%{opacity:.4}100%{opacity:1}}=
+.Link-module_root.Link-module_small:focus,.Link-module_root.Link-module_sma=
+ll:hover{text-decoration:underline}.Link-module_root.Link-module_medium:foc=
+us,.Link-module_root.Link-module_medium:hover{text-decoration:underline}@ke=
+yframes Link-module_pulsate{0%{opacity:1}50%{opacity:.4}100%{opacity:1}}@me=
+dia (prefers-color-scheme:dark){.Link-module_email{color:#ff1a34;-webkit-te=
+xt-fill-color:#ff1a34}}</style>
+    <style type=3D"text/css">[data-ogsb] .root{color:#ffffff!important;back=
+ground-color:#000000!important}[data-ogsb] .color1 *{background-color:#4600=
+28!important}[data-ogsb] .color2 *{background-color:#EEDAFB!important}[data=
+-ogsb] .color3 *{background-color:#9B0000!important}[data-ogsb] .color4 *{b=
+ackground-color:#D7E1F5!important}u+.body .gmail-blend-screen{background:#0=
+00;mix-blend-mode:screen}u+.body .gmail-blend-difference{background:#000;mi=
+x-blend-mode:difference}</style>
+    <!--[if mso]>
+    <style type=3D"text/css">
+      html, body {
+        margin: 0 !important;
+        padding: 0 !important;
+      }
+      body, table, td, h1, p, a, span { font-family: Arial, Helvetica, sans=
+-serif !important; }
+      table {
+        border-collapse: collapse;
+        border-spacing: 0;
+        mso-table-lspace: 0pt !important;
+        mso-table-rspace: 0pt !important;
+      }
+      a {
+        text-decoration: none !important;
+        text-decoration-color: transparent !important;
+        text-underline-color: transparent;
+      }
+      .root .container { width: 698px !important; }
+    </style>
+    <![endif]-->
+    <!--[if gte mso 16]>
+    <style type=3D"text/css">
+      .button span {
+        mso-style-textfill-type: gradient;
+        mso-style-textfill-fill-gradientfill-stoplist: "0 \#FFFFFF 0 100000=
+\,100000 \#FFFFFF 0 100000";
+        color: #000000 !important;
+      }
+    </style>
+    <![endif]-->
+    <!--[if mso]>
+    <noscript>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG />
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+    </noscript>
+    <![endif]-->
+  </head>
+  <body class=3D"body" style=3D"box-sizing:border-box;padding:0;margin:0;fo=
+nt-family:Publik,Gibson,gibsonRegular,Arial,sans-serif;-webkit-font-smoothi=
+ng:antialiased;-moz-osx-font-smoothing:grayscale;-webkit-text-size-adjust:n=
+one;-moz-text-size-adjust:none;text-size-adjust:none;overflow-x:hidden;back=
+ground-color:#f3f0ef;background-image:linear-gradient(#f3f0ef,#f3f0ef);word=
+-wrap:normal;word-spacing:normal">
+    <div style=3D"box-sizing:border-box;visibility:hidden;mso-hide:all;font=
+-size:1px;color:#ffffff;line-height:1px;max-height:0;max-width:0;opacity:0;=
+overflow:hidden;display:none!important">Tak fordi du opretter et login &#84=
+7; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#=
+847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; =
+&#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847; &#847=
+; &#847; &#847; &#847; &#847; &#847; &#847;</div>
+    <table role=3D"article" cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" class=3D"root" id=3D"root" aria-roledescription=3D"email" aria-label=3D"B=
+ekr=E6ft dit login" lang=3D"da" style=3D"box-sizing:border-box;border-spaci=
+ng:0;width:100%;padding:0;margin:0;border:0;mso-padding-alt:0;font-size:med=
+ium;font-size:max(16px,1rem);border-collapse:collapse" width=3D"100%"><tr s=
+tyle=3D"box-sizing:border-box"><td align=3D"center" style=3D"box-sizing:bor=
+der-box"><table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0" class=3D"container" style=3D"box-sizing:border-box;border-colla=
+pse:collapse;border-spacing:0;color:#1a1a1a;background-color:#ffffff;paddin=
+g:0;margin:0;border:0;mso-padding-alt:0;max-width:680px" bgcolor=3D"#ffffff=
+"><tr style=3D"box-sizing:border-box"><td rowspan=3D"2" class=3D"Layout-mod=
+ule_headerLeft" style=3D"box-sizing:border-box;width:30px;min-width:30px;ve=
+rtical-align:top;padding:0;margin:0;border:0;mso-padding-alt:0" width=3D"30=
+" valign=3D"top"><table role=3D"presentation" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" class style=3D"box-sizing:border-box;border-collapse:co=
+llapse;border-spacing:0;table-layout:fixed;width:30px;height:262px;padding:=
+0;margin:0;border:0;mso-padding-alt:0" width=3D"30" height=3D"262"><tr styl=
+e=3D"box-sizing:border-box"><td class=3D"color1" style=3D"box-sizing:border=
+-box;width:30px;height:262px;padding:0;margin:0;border:0;mso-padding-alt:0;=
+background-color:#460028!important;background-image:linear-gradient(#460028=
+,#460028)!important" width=3D"30" height=3D"262" bgcolor=3D"#460028">&nbsp;=
+</td></tr></table></td><td class=3D"Layout-module_headerTop" style=3D"box-s=
+izing:border-box;height:132px;width:100%;padding:0;margin:0;border:0;mso-pa=
+dding-alt:0" width=3D"100%" height=3D"132"><table role=3D"presentation" cel=
+lpadding=3D"0" cellspacing=3D"0" border=3D"0" class style=3D"box-sizing:bor=
+der-box;border-collapse:collapse;border-spacing:0;width:100%;height:108px;p=
+adding:0;margin:0;border:0;mso-padding-alt:0" width=3D"100%" height=3D"108"=
+><tr style=3D"box-sizing:border-box"><td colspan=3D"3" class=3D"color1" sty=
+le=3D"box-sizing:border-box;min-width:144px;padding:0;margin:0;border:0;mso=
+-padding-alt:0;background-color:#460028!important;background-image:linear-g=
+radient(#460028,#460028)!important" bgcolor=3D"#460028"><table role=3D"pres=
+entation" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" class style=3D"b=
+ox-sizing:border-box;border-collapse:collapse;border-spacing:0;height:108px=
+;width:100%;padding:0;margin:0;border:0;mso-padding-alt:0" width=3D"100%" h=
+eight=3D"108"><tr style=3D"box-sizing:border-box"><td style=3D"box-sizing:b=
+order-box;height:108px;width:100%;padding:0;margin:0;border:0;mso-padding-a=
+lt:0" width=3D"100%" height=3D"108">&nbsp;</td></tr></table></td><td rowspa=
+n=3D"2" class=3D"color2" style=3D"box-sizing:border-box;width:192px;padding=
+:0;margin:0;border:0;mso-padding-alt:0;background-color:#EEDAFB!important;b=
+ackground-image:linear-gradient(#EEDAFB,#EEDAFB)!important" width=3D"192" b=
+gcolor=3D"#EEDAFB"><table role=3D"presentation" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0" class style=3D"box-sizing:border-box;border-collapse:=
+collapse;border-spacing:0;height:108px;width:100%;padding:0;margin:0;border=
+:0;mso-padding-alt:0" width=3D"100%" height=3D"108"><tr style=3D"box-sizing=
+:border-box"><td style=3D"box-sizing:border-box;height:108px;width:100%;pad=
+ding:0;margin:0;border:0;mso-padding-alt:0" width=3D"100%" height=3D"108">&=
+nbsp;</td></tr></table></td><td rowspan=3D"2" class=3D"color3" style=3D"box=
+-sizing:border-box;width:126px;padding:0;margin:0;border:0;mso-padding-alt:=
+0;background-color:#9B0000!important;background-image:linear-gradient(#9B00=
+00,#9B0000)!important" width=3D"126" bgcolor=3D"#9B0000"><table role=3D"pre=
+sentation" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" class style=3D"=
+box-sizing:border-box;border-collapse:collapse;border-spacing:0;height:108p=
+x;width:100%;padding:0;margin:0;border:0;mso-padding-alt:0" width=3D"100%" =
+height=3D"108"><tr style=3D"box-sizing:border-box"><td style=3D"box-sizing:=
+border-box;height:108px;width:100%;padding:0;margin:0;border:0;mso-padding-=
+alt:0" width=3D"100%" height=3D"108">&nbsp;</td></tr></table></td><td rowsp=
+an=3D"2" class=3D"color4" style=3D"box-sizing:border-box;width:48px;padding=
+:0;margin:0;border:0;mso-padding-alt:0;background-color:#D7E1F5!important;b=
+ackground-image:linear-gradient(#D7E1F5,#D7E1F5)!important" width=3D"48" bg=
+color=3D"#D7E1F5"><table role=3D"presentation" cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0" class style=3D"box-sizing:border-box;border-collapse:c=
+ollapse;border-spacing:0;height:108px;width:100%;padding:0;margin:0;border:=
+0;mso-padding-alt:0" width=3D"100%" height=3D"108"><tr style=3D"box-sizing:=
+border-box"><td style=3D"box-sizing:border-box;height:108px;width:100%;padd=
+ing:0;margin:0;border:0;mso-padding-alt:0" width=3D"100%" height=3D"108">&n=
+bsp;</td></tr></table></td></tr><tr style=3D"box-sizing:border-box"><td cla=
+ss=3D"color1" style=3D"box-sizing:border-box;height:12px;line-height:2px;fo=
+nt-size:2px;width:32px;padding:0;margin:0;border:0;mso-padding-alt:0;backgr=
+ound-color:#460028!important;background-image:linear-gradient(#460028,#4600=
+28)!important" width=3D"32" height=3D"12" bgcolor=3D"#460028"><table role=
+=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" class st=
+yle=3D"box-sizing:border-box;border-collapse:collapse;border-spacing:0"><tr=
+ style=3D"box-sizing:border-box"><td style=3D"box-sizing:border-box;line-he=
+ight:2px;font-size:2px;width:32px;height:12px;padding:0;margin:0;border:0;m=
+so-padding-alt:0" width=3D"32" height=3D"12">&nbsp;</td></tr></table></td><=
+td rowspan=3D"2" class=3D"logo" style=3D"box-sizing:border-box;line-height:=
+2px;font-size:2px;width:80px;max-width:80px;height:24px;max-height:24px;bac=
+kground-color:#000000;padding:0;margin:0;border:0;mso-padding-alt:0" width=
+=3D"80" height=3D"24" bgcolor=3D"#000000"><div class=3D"svg-before" style=
+=3D"box-sizing:border-box"></div><svg width=3D"80" height=3D"24" viewBox=3D=
+"0 0 800 240" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg" style=3D"b=
+ox-sizing:border-box;display:block"><title>DR-logo</title><switch style=3D"=
+box-sizing:border-box"><g style=3D"box-sizing:border-box"><path d=3D"M800 0=
+H0v240h800V0Z" fill=3D"#000" style=3D"box-sizing:border-box"/><path d=3D"M3=
+14.994 60.003H142.278c-1.517 0-2.282.905-2.282 2.27v115.301c0 1.376.753 2.2=
+94 2.282 2.294l172.716.135c50.283 0 74.999-16.552 74.999-60.156 0-43.299-24=
+.716-59.844-74.999-59.844Zm-44.999 100h-59.998V80.002h59.998c31.891 0 44.99=
+9 11.14 44.999 39.845-.012 28.728-13.108 40.156-44.999 40.156Zm396.593 15.1=
+25-50.269-34.977c-1.242-.919-2.006-1.366-2.006-1.978 0-.601.454-.918 1.54-.=
+918 25.439 0 44.137-11.4 44.137-37.253 0-25.7-15.916-40-47.228-40H422.31c-1=
+.54 0-2.316.906-2.316 2.272v115.432c0 1.377.764 2.296 2.316 2.296h65.183c1.=
+797 0 2.5-1.094 2.5-2.296v-27.704h49.999l36.085 28.304c1.696 1.366 2.925 1.=
+672 4.931 1.672h87.132c1.241 0 1.85-.459 1.85-1.377 0-1.189-2.16-2.555-3.40=
+2-3.473Zm-106.596-45.126h-69.999v-50h69.999c20.353 0 29.999 8.424 29.999 25=
+ 0 16.729-9.646 25-29.999 25Z" fill=3D"#fff" style=3D"box-sizing:border-box=
+"/></g><foreignObject style=3D"box-sizing:border-box"><img width=3D"80" hei=
+ght=3D"24" src=3D"https://www.dr.dk/login/indstillinger/static/emails/dr-lo=
+go.png" srcset=3D"https://www.dr.dk/login/indstillinger/static/emails/dr-lo=
+go.svg" alt=3D"DR-logo" align=3D"texttop" style=3D"box-sizing:border-box;-m=
+s-interpolation-mode:bicubic;display:block;line-height:24px;mso-line-height=
+-rule:exactly;text-align:center;color:#ffffff;padding:0;margin:0;border:0;m=
+so-padding-alt:0"></foreignObject></switch></svg><div class=3D"svg-after" s=
+tyle=3D"box-sizing:border-box;display:none;height:24px"><img width=3D"80" h=
+eight=3D"24" src=3D"https://www.dr.dk/login/indstillinger/static/emails/dr-=
+logo.png" srcset=3D"https://www.dr.dk/login/indstillinger/static/emails/dr-=
+logo.svg" alt=3D"DR-logo" align=3D"texttop" style=3D"box-sizing:border-box;=
+-ms-interpolation-mode:bicubic;display:block;line-height:24px;mso-line-heig=
+ht-rule:exactly;text-align:center;color:#ffffff;padding:0;margin:0;border:0=
+;mso-padding-alt:0"></div></td><td class=3D"color1" style=3D"box-sizing:bor=
+der-box;height:12px;line-height:2px;font-size:2px;min-width:32px;padding:0;=
+margin:0;border:0;mso-padding-alt:0;background-color:#460028!important;back=
+ground-image:linear-gradient(#460028,#460028)!important" height=3D"12" bgco=
+lor=3D"#460028"><table role=3D"presentation" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" class style=3D"box-sizing:border-box;border-collapse:co=
+llapse;border-spacing:0"><tr style=3D"box-sizing:border-box"><td style=3D"b=
+ox-sizing:border-box;line-height:2px;font-size:2px;width:32px;height:12px;p=
+adding:0;margin:0;border:0;mso-padding-alt:0" width=3D"32" height=3D"12">&n=
+bsp;</td></tr></table></td></tr><tr style=3D"box-sizing:border-box"><td cla=
+ss=3D"dark" style=3D"box-sizing:border-box;height:12px;padding:0;margin:0;b=
+order:0;mso-padding-alt:0;line-height:2px;font-size:2px" height=3D"12">&nbs=
+p;</td><td colspan=3D"4" class=3D"dark" style=3D"box-sizing:border-box;heig=
+ht:12px;padding:0;margin:0;border:0;mso-padding-alt:0;line-height:2px;font-=
+size:2px" height=3D"12">&nbsp;</td></tr></table></td></tr><tr style=3D"box-=
+sizing:border-box"><td rowspan=3D"2" style=3D"box-sizing:border-box;vertica=
+l-align:top" valign=3D"top"><table role=3D"presentation" cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" class style=3D"box-sizing:border-box;border-=
+collapse:collapse;border-spacing:0;width:100%" width=3D"100%"><tr style=3D"=
+box-sizing:border-box"><td class=3D"content" style=3D"box-sizing:border-box=
+;padding:36px 32px;display:block;min-height:200px"><div class=3D"Stack-modu=
+le_email Stack-module_root Stack-module_direction-column Stack-module_align=
+-flex-start Stack-module_justify-flex-start Stack-module_spacing-lg" style=
+=3D"box-sizing:border-box;display:block;flex-direction:column;align-items:f=
+lex-start;justify-content:flex-start"><h1 class=3D"Headline-module_email He=
+adline-module_root Headline-module_xl Headline-module_semibold" style=3D"bo=
+x-sizing:border-box;margin:0;font-family:Publik,Gibson,gibsonRegular,Arial,=
+sans-serif;font-weight:600;font-size:30px;line-height:36px;margin-bottom:24=
+px">Hej asdqww</h1><p class=3D"Body-module_email Body-module_root Body-modu=
+le_l" style=3D"box-sizing:border-box;margin:0;font-family:Publik,Gibson,gib=
+sonRegular,Arial,sans-serif;font-weight:400;color:#333333;font-size:16px;li=
+ne-height:26px;margin-bottom:24px">Tak fordi du opretter et login til DR.</=
+p><p class=3D"Body-module_email Body-module_root Body-module_l" style=3D"bo=
+x-sizing:border-box;margin:0;font-family:Publik,Gibson,gibsonRegular,Arial,=
+sans-serif;font-weight:400;color:#333333;font-size:16px;line-height:26px;ma=
+rgin-bottom:24px">For at aktivere det, skal du bekr=E6fte, at e-mailadresse=
+n er din.</p><a class=3D"button" rel=3D"noopener" target=3D"_blank" href=3D=
+"https://api.dr.dk/login/interactions/email/confirmation?token=3DeyJhbGciOi=
+JIUzI1NiJ9.eyJhY2MiOiJjb25maXJtYXRpb24iLCJzdWIiOiIwNmVhMTYyMi03NGNmLTQ0OGQt=
+YWMzNS1lMTdkMTk5OWQ4YzEiLCJlbWFpbCI6ImFzZGFzZHNkYUBzb3J0c2Vlci5kayIsImV4cCI=
+6MTcyOTE4NzQzMX0.ZbWaw2Yg-2kKHuwJZvy2Do4vGLwrJOqTQnFXkx1ga4c&amp;type=3Dsig=
+nup" style=3D"box-sizing:border-box;display:inline-block;background:0 0;bac=
+kground-color:#ff001e;text-decoration:none;text-decoration-color:#ff001e;te=
+xt-underline-color:#ff001e;padding:11px 23px;mso-padding-alt:0;font-size:14=
+px;line-height:18px;text-transform:uppercase;font-family:Publik,Gibson,gibs=
+onRegular,Arial,sans-serif;font-weight:600;text-transform:uppercase;border:=
+1px solid transparent;cursor:pointer;appearance:none;transition:background-=
+color .3s ease-out,border-color .1s ease-out;background-image:linear-gradie=
+nt(#ff001e,#ff001e)!important">
+          <!--[if mso]><i style=3D"letter-spacing: 25px; mso-font-width: -1=
+00%; mso-text-raise: 16pt;">&nbsp;</i><![endif]-->
+          <span class=3D"Button-module_inner gmail-blend-screen" style=3D"b=
+ox-sizing:border-box;color:#ffffff;text-decoration:none;mso-text-raise:8pt"=
+><span class=3D"gmail-blend-difference" style=3D"box-sizing:border-box">Bek=
+r=E6ft e-mail</span></span>
+          <!--[if mso]><i style=3D"letter-spacing: 25px; mso-font-width: -1=
+00%;">&nbsp;</i><![endif]-->
+        </a></div><table role=3D"presentation" cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0" class=3D"Footer-module_spacing" style=3D"box-sizing:bo=
+rder-box;border-collapse:collapse;border-spacing:0;width:100%;mso-table-lsp=
+ace:0;mso-table-rspace:0;height:128px!important" width=3D"100%" height=3D"1=
+28"><tr style=3D"box-sizing:border-box"><td style=3D"box-sizing:border-box;=
+width:100%;vertical-align:bottom;height:128px!important" width=3D"100%" hei=
+ght=3D"128" valign=3D"bottom"><table role=3D"presentation" cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0" class=3D"Footer-module_separator" style=3D=
+"box-sizing:border-box;border-collapse:collapse;border-spacing:0;width:100%=
+;height:1px;line-height:1px;mso-line-height-rule:exactly;font-size:1px;mso-=
+table-lspace:0;mso-table-rspace:0" width=3D"100%" height=3D"1"><tr style=3D=
+"box-sizing:border-box"><td style=3D"box-sizing:border-box;width:100%;heigh=
+t:1px;line-height:1px;mso-line-height-rule:exactly;font-size:1px;background=
+-color:#b2b2b2" width=3D"100%" height=3D"1" bgcolor=3D"#b2b2b2">&nbsp;</td>=
+</tr></table></td></tr><tr style=3D"box-sizing:border-box"><td style=3D"box=
+-sizing:border-box;width:100%;line-height:8px;mso-line-height-rule:exactly;=
+height:8px!important" width=3D"100%" height=3D"8">&nbsp;</td></tr></table><=
+div class=3D"Stack-module_email Stack-module_root Stack-module_direction-co=
+lumn Stack-module_align-stretch Stack-module_justify-flex-start Stack-modul=
+e_spacing-sm" style=3D"box-sizing:border-box;display:block;flex-direction:c=
+olumn;align-items:stretch;justify-content:flex-start"><p class=3D"Body-modu=
+le_email Footer-module_body Body-module_root Body-module_s" style=3D"box-si=
+zing:border-box;margin:0;font-family:Publik,Gibson,gibsonRegular,Arial,sans=
+-serif;font-weight:400;color:#999999;font-size:14px;line-height:20px;margin=
+-bottom:8px">Se bort fra denne besked hvis det ikke er dig, der har oprette=
+t et login. Du kan ikke besvare denne mail. Hvis du har sp=F8rgsm=E5l, kan =
+du altid komme i kontakt med DR her.</p><a class=3D"Link-module_email Link-=
+module_root Link-module_medium" href=3D"https://dr.custhelp.com" style=3D"b=
+ox-sizing:border-box;display:inline-flex;align-items:center;font-family:Pub=
+lik,Gibson,gibsonRegular,Arial,sans-serif;font-weight:400;text-transform:up=
+percase;cursor:pointer;-webkit-text-fill-color:#ff001e;text-decoration-colo=
+r:transparent;text-underline-color:transparent;font-size:14px;line-height:1=
+8px;color:#db001a;text-decoration:none">Kontakt DR<svg viewBox=3D"0 0 24 24=
+" style=3D"box-sizing:border-box;display:block;fill:#db001a;margin-right:.2=
+5rem;margin-left:.25rem;width:1.5rem;height:1.5rem"><path d=3D"M8.9 20.2l-1=
+.4-1.4 6.8-6.8-6.8-6.8 1.4-1.4 8.3 8.2z" style=3D"box-sizing:border-box"/><=
+/svg></a></div></td></tr></table></td></tr></table></td></tr></table>
+  </body>
+</html>
+--f64bea36e83fd1cb0e2eddfdd57845d4555f3de0a61157889e496ef5eb56--
+
