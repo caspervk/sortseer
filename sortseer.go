@@ -20,8 +20,7 @@ import (
 var errError = errors.New("error")
 
 // [^\s"] breaks on both whitespace and quote, ensuring it works for both plaintext and HTML
-var re = regexp.MustCompile(`https://api\.dr\.dk/login/interactions/email/confirmation[^\s"]+`)
-
+var re = regexp.MustCompile(`https://login\.dr\.dk/transactions/email/verify[^\s"]+`)
 type Backend struct{}
 
 func (bkd *Backend) NewSession(c *smtp.Conn) (smtp.Session, error) {
