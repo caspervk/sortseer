@@ -3,7 +3,8 @@
 Fri adgang til DR; brug `<hvad som helst>@sortseer.dk`, så aktiveres kontoen
 automatisk.
 
-Træt af login? Prøv en alternativ frontend: <https://drtv.rend.al/>.
+Træt af login? Prøv en alternativ frontend:
+<https://drtv.fricloud.dk>/<https://drtv.rend.al>.
 
 ## Demo 📽️
 
