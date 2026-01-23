@@ -11,16 +11,14 @@
     self,
     nixpkgs,
   }: let
-    # https://github.com/ryantm/agenix/blob/main/flake.nix
-    eachSystem = nixpkgs.lib.genAttrs [
-      "aarch64-linux"
-      "x86_64-linux"
-    ];
+    forAllSystems = nixpkgs.lib.genAttrs nixpkgs.lib.systems.flakeExposed;
   in {
-    formatter = eachSystem (system: nixpkgs.legacyPackages.${system}.alejandra);
+    formatter = forAllSystems (system: nixpkgs.legacyPackages.${system}.alejandra);
 
-    packages = eachSystem (system: {
-      sortseer = nixpkgs.legacyPackages.${system}.buildGoModule {
+    packages = forAllSystems (system: let
+      pkgs = nixpkgs.legacyPackages.${system};
+    in {
+      default = pkgs.buildGoModule {
         pname = "sortseer";
         version = "0.0.1";
 
@@ -28,13 +26,11 @@
 
         vendorHash = "sha256-PbGOT36n1gyHr0OK0GqZL7B04WHJv+781nGJZIj9LgY=";
       };
-
-      default = self.packages.${system}.sortseer;
     });
 
     # https://wiki.nixos.org/wiki/NixOS_modules
     nixosModules = {
-      sortseer = {
+      default = {
         config,
         lib,
         pkgs,
@@ -51,7 +47,7 @@
             after = ["network.target"];
             wantedBy = ["multi-user.target"];
             serviceConfig = {
-              ExecStart = "${self.packages.${pkgs.system}.sortseer}/bin/sortseer";
+              ExecStart = "${self.packages.${pkgs.system}.default}/bin/sortseer";
               Restart = "always";
               DynamicUser = true;
               # Allow binding to privileged ports
@@ -60,8 +56,6 @@
           };
         };
       };
-
-      default = self.nixosModules.sortseer;
     };
   };
 }
